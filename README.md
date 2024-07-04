@@ -37,7 +37,7 @@ Secure login page for users to access the application.
    
     Captures user details and their inquiries, which are then stored in the database.
 
-7.Profile Page
+7. Profile Page
 
     Users can view and edit their saved information.
 
@@ -65,11 +65,11 @@ Installation:-
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/automotive-accelerator.git
+    https://github.com/ShriyamTiwari/Automotive-Accelerator
 
 2. Navigate to the project directory:
 
-cd automotive-accelerator
+    cd automotive-accelerator
 
 3. Set up the database:
 
