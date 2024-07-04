@@ -1,14 +1,14 @@
-Automotive Accelerator
+# Automotive Accelerator
 
 
 
-Project Description
+## Project Description
 
 Automotive Accelerator is a comprehensive web application designed to streamline the management of an automotive service business. The project is built using HTML, CSS, PHP, and JavaScript, and it performs all essential CRUD (Create, Read, Update, Delete) operations to maintain information about employees, trucks, and service schedules. Additionally, it provides functionalities for user interaction through a contact form and user profile management.
 
 
 
-Features:-
+### Features
 
 1. Login Page
 
@@ -45,7 +45,7 @@ Secure login page for users to access the application.
     
 
 
-Technology Stack:-
+### Technology Stack
 
 
 HTML: For structuring the web pages.
@@ -60,7 +60,7 @@ MySQL: For database management.
 
 
 
-Installation:-
+### Installation
 
 
 1. Clone the repository:
@@ -83,7 +83,7 @@ Installation:-
 
 
    
-Usage:-
+### Usage
 
 1. Open your web browser and navigate to the local server (e.g., http://localhost/automotive-accelerator).
 2. Log in using your credentials.
@@ -92,6 +92,6 @@ Usage:-
 5. Use the contact form to send messages.
 6. Edit your profile information.
  
-Contact:-
+### Contact
 
 For any questions or inquiries, please contact the project owner via email - tiwarishriyam26@gmail.com
